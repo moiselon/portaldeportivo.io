@@ -1,0 +1,41 @@
+
+.bi-house-door{
+    font-size: 40px;
+}
+
+.fondo{
+    background: #373B44;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+.boton{
+    border-radius: 15px;
+    border-color: white 5px !important;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.portada{
+    position: absolute;
+    border-radius: 20px  !important;
+    right: 20%;
+    margin-top: -50px;
+}
+
+.foto{
+    border-radius: 20px  !important; 
+}
+
+.img-notica{
+    width: 120px;
+    height: 100px;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+section[id]{
+    scroll-margin-top: 155px;
+}

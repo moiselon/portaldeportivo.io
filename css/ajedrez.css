@@ -1,0 +1,41 @@
+.LogoItla{
+    width: 300px;
+    
+}
+.Logo{
+    width: 200px;
+    margin-top: 2rem;
+}
+
+nav{
+    background-color:#023877;
+    margin-bottom: 2rem;
+}
+.nav-link{
+    font-size: 15px;
+}
+
+li:hover{
+    background-color: #120467;
+}
+.deportes-destacados,.noticias-recientes{
+    color:  #023877;
+}
+.card{
+    width: 12rem;
+    margin-top: 2rem;
+}
+.noticias{
+    list-style: none;
+    text-decoration: none;
+    color: #023877;
+}
+.card-img-top{
+    width: 200px;
+    margin-top: 2rem;
+}
+.img-fixed-size {
+    height: 250px; /* Ajusta la altura deseada */
+    width: 287px;
+    object-fit: cover;
+}
